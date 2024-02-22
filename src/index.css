@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  color: navy;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hover-scale:hover {
+transform: scale(1.05);
+}
+
+.scale:hover{
+transform: scale(2);
+}
+
+.box:hover{
+transform: scale(1);
+border-bottom: 2px solid dotted;
+border-color: black;
+}
+
+.check1{
+display: none;
+}
+
+.check:hover .check1{
+display: block;
+
+}
