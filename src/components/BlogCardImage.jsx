@@ -5,42 +5,42 @@ import Blogcard from './Blogcard';
 
 const imgData = [
     {
-        img: 'public/images/images/2.jpg',
+        img: 'public/images/1.jpg',
         
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/3.jpg',
+        img: 'public/images/6.jpg',
        
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/4.jpg',
+        img: 'public/images/5.jpg',
        
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/5.jpg',
+        img: 'public/images/4.jpg',
         
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/6.jpg',
+        img: 'public/images/3.jpg',
        
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/7.jpg',
+        img: 'public/images/2.jpg',
        
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/8.jpg',
+        img: 'public/images/1.jpg',
         
         desc:"icecream, Food, Ice Cream, Mint"
     },
     {
-        img: 'public/images/images/9.jpg',
+        img: 'public/images/8.jpg',
        
         desc:"icecream, Food, Ice Cream, Mint"
     },

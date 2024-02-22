@@ -6,23 +6,23 @@ import BestsellerCard from './BestsellerCard';
 
 const imgData = [
     {
-        img: 'public/images/images/bestseller1.webp',
+        img: 'public/images/bestseller1.webp',
         title:'Zulubar'
         
        
     },
     {
-        img: 'public/images/images/bestseller2.webp',
+        img: 'public/images/bestseller2.webp',
         title:'Triple Chocolate'
        
     },
     {
-        img: 'public/images/images/bestseller3.webp',
+        img: 'public/images/bestseller3.webp',
         title:'Chocolate Cone'
       
     },
     {
-        img: 'public/images/images/bestseller4.webp',
+        img: 'public/images/bestseller4.webp',
         title:'Aam'
        
     }

@@ -4,42 +4,42 @@ import Card from './Card';
 
 const imageUrls = [
     {
-        imgurl: 'public/images/images/8.jpg',
+        imgurl: 'public/images/8.jpg',
         title:"img1",
         description:"icecream, Food, Ice Cream, Mint"
     },
     {
-        imgurl: 'public/images/images/9.jpg',
+        imgurl: 'public/images/9.jpg',
         title:"img1",
         description:"something"
     },
     {
-        imgurl: 'public/images/images/10.jpg',
+        imgurl: 'public/images/10.jpg',
         title:"img1",
         description:"something"
     },
     {
-        imgurl: 'public/images/images/11.jpg',
+        imgurl: 'public/images/11.jpg',
         title:"img1",
         description:"something"
     },
     {
-        imgurl: 'public/images/images/12.jpg',
+        imgurl: 'public/images/12.jpg',
         title:"img1",
         description:"icecream, Food, Ice Cream, Mint"
     },
     {
-        imgurl: 'public/images/images/13.jpg',
+        imgurl: 'public/images/13.jpg',
         title:"img1",
         description:"something"
     },
     {
-        imgurl: 'public/images/images/14.jpg',
+        imgurl: 'public/images/14.jpg',
         title:"img1",
         description:"something"
     },
     {
-        imgurl: 'public/images/images/15.jpg',
+        imgurl: 'public/images/15.jpg',
         title:"img1",
         description:"something"
     },

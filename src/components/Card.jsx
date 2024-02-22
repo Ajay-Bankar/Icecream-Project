@@ -30,7 +30,7 @@ const Card = ({ title, description, imgurl }) => {
       </div>
 
       <div className='flex justify-evenly'>
-        <button className='w-[100px] animate-opacity hover:opacity-0 bg-green-500 text-white p-1 mt-2 mb-2 rounded-xl'>
+        <button className='w-[100px]   bg-green-500 text-white p-1 mt-2 mb-2 rounded-xl'>
           Order Now
         </button>
         <div
