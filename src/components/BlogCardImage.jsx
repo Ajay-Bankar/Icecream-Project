@@ -5,7 +5,7 @@ import Blogcard from './Blogcard';
 
 const imgData = [
     {
-        img: 'public/images/1.jpg',
+        img: 'https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aWNlY3JlYW18ZW58MHx8MHx8fDA%3D',
         
         desc:"icecream, Food, Ice Cream, Mint"
     },
