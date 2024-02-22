@@ -11,7 +11,7 @@ const DetailsPage = ({ match }) => {
     description: 'Product Description',
     ratings: 4.5,
     price: '$50.00',
-    image: 'public/images/images/8.jpg',
+    image: 'https://images.unsplash.com/photo-1568464774940-a3de36f824a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGljZWNyZWFtfGVufDB8fDB8fHww',
   };
 
   return (
