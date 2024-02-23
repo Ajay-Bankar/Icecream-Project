@@ -15,7 +15,7 @@ import { EffectFade, Autoplay, Navigation, Pagination } from 'swiper/modules';
 
 export default function Slider() {
   return (
-    <div className=' mb-2 sm:mb-8'>
+    <div className=' mb-2 sm:mb-8 mt-4'>
     <>
       <Swiper 
         // spaceBetween={30}
@@ -33,16 +33,16 @@ export default function Slider() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img className=' sm:w-full sm:h-[400px] w-full h-[100px] object-cover'  src="./images/slide.1.jpg" />
+          <img className=' sm:w-full sm:h-[350px] w-full h-[130px] sm:object-cover object-cover'  src="./images/slide.1.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img className='sm:w-full sm:h-[400px] w-full h-[100px] object-cover' src="./images/slide2.jpg" />
+          <img className='sm:w-full sm:h-[350px] w-full h-[130px] sm:object-cover object-cover' src="./images/slide2.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img className=' sm:w-full sm:h-[400px] w-full h-[100px] object-cover' src="./images/slide3.jpg" />
+          <img className=' sm:w-full sm:h-[350px] w-full h-[130px] sm:object-cover object-cover' src="./images/slide3.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img className='sm:w-full sm:h-[400px] w-full h-[100px] object-cover' src="./images/slide4.jpg" />
+          <img className='sm:w-full sm:h-[350px] w-full h-[130px] sm:object-cover object-cover' src="./images/slide4.jpg" />
         </SwiperSlide>
       </Swiper>
     </>

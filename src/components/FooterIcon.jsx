@@ -5,7 +5,7 @@ const FooterIcon = () => {
     <div>
       <div>
         <div className='text-white text-4xl flex flex-col md:flex-row justify-center items-center gap-x-8 p-5 '>
-          <ul className="flex gap-8 mt-5">
+          <ul className="flex gap-5 sm:gap-8 mt-5">
             <li className='hover:translate-y-[-40px] transition-all duration-1000'>
               <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-linkedin hover:text-[#ffd600]"></i>

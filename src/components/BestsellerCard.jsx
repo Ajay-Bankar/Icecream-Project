@@ -13,7 +13,7 @@ const BestsellerCard = ({ img, title, }) => {
             <div className=' flex justify-center'>
                 <div className='  mt-5 border-2 border-green-900 w-[100px] flex justify-center rounded-lg p-2   '>
 
-                    <button className=' text-center  font-bold '>Buy Now</button>
+                    <button className=' sm:text-center text-sm:  sm:font-bold '>Buy Now</button>
 
                 </div>
             </div>

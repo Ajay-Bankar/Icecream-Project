@@ -4,6 +4,7 @@ const Footer = () => {
   return (
     <div className='bg-[#4b6584] w-ful'>
       <FooterIcon/>
+      <hr />
 
       <div className='w-11/12  grid grid-cols-1  sm:grid-cols-4 md:grid-cols-4 text-center  text-white mt-3'>
         <section className=' mb-4 py-3 flex flex-col gap-2  '>
@@ -56,6 +57,7 @@ const Footer = () => {
             </div>
           </div>
         </section>
+        
 
         <section className='mb-4   py-3 flex flex-col gap-2   '>
           <div>
@@ -75,12 +77,17 @@ const Footer = () => {
               <a href='#' className='text-sm hover-underline hover:text-yellow-400 transition-all duration-300'>Contact Us</a>
             </div>
           </div>
+         
         </section>
+        
+       
       </div>
-      
-
+    
+     
       {/* <WhatsAppIcon /> */}
+      
     </div>
+  
   );
 };
 
