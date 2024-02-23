@@ -6,23 +6,23 @@ import BestsellerCard from './BestsellerCard';
 
 const imgData = [
     {
-        img: 'public/images/bestseller1.webp',
+        img: 'https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Zulubar_.webp?itok=mTbCLWeE',
         title:'Zulubar'
         
        
     },
     {
-        img: 'public/images/bestseller2.webp',
+        img: 'https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Triple%20Chocolate-00.webp?itok=pGJHcd0-',
         title:'Triple Chocolate'
        
     },
     {
-        img: 'public/images/bestseller3.webp',
+        img: 'https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Chocolate%20cone_0.webp?itok=UOWbFJ2p',
         title:'Chocolate Cone'
       
     },
     {
-        img: 'public/images/bestseller4.webp',
+        img: 'https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Aam%20Candy-Product-detail.webp?itok=7xnXetzc',
         title:'Aam'
        
     }
